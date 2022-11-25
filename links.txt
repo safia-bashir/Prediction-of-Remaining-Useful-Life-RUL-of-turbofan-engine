@@ -1,0 +1,14 @@
+https://4cda.com/intro-to-predictive-maintenance-on-nasa-turbofan-engine-dataset-using-machine-learning/
+
+https://www.stratada.com/remaining-useful-life-rul-prediction/
+
+https://github.com/biswajitsahoo1111/rul_codes_open/blob/master/notebooks/cmapss_notebooks/CMAPSS_FD002_1D_CNN_piecewise_linear_degradation_model.ipynb
+
+https://cloudxlab.com/blog/predicting-remaining-useful-life-of-a-machine/
+
+https://medium.com/@hamalyas_/jet-engine-remaining-useful-life-rul-prediction-a8989d52f194
+
+
+https://www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository
+
+https://github.com/topics/remaining-useful-life?o=asc&s=forks
