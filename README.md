@@ -4,7 +4,7 @@ This project involves the development of a machine learning model for predicting
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+## Prerequisites
 - Python 3.7 or later
 - NumPy
 - Pandas
@@ -12,13 +12,13 @@ Prerequisites
 - Matplotlib
 
 # Installing
-1- Clone the repository: git clone https://github.com/user/repo.git
-2- Install the required packages: pip install -r requirements.txt
+1.  Clone the repository: git clone https://github.com/user/repo.git
+2.  Install the required packages: pip install -r requirements.txt
 # Usage
-1- Download the dataset from this link and unzip it.
-2- Place the dataset in the data directory.
-3- Run the train.py script to train the model: python train.py
-4- Run the predict.py script to make predictions using the trained model: python predict.py
+1. Download the dataset from this link and unzip it.
+2. Place the dataset in the data directory.
+3. Run the train.py script to train the model: python train.py
+4. Run the predict.py script to make predictions using the trained model: python predict.py
 
 # Known Issues
 The model may not be accurate for engines with significantly different operating conditions than those in the training dataset.
@@ -26,5 +26,6 @@ The model is currently only able to make predictions for individual engines, and
 
 # Acknowledgments
 The dataset used in this project was provided by NASA and can be found here.
+
 
 
