@@ -25,7 +25,7 @@ The model may not be accurate for engines with significantly different operating
 The model is currently only able to make predictions for individual engines, and cannot make predictions for a fleet of engines.
 
 # Acknowledgments
-The dataset used in this project was provided by NASA and can be found [here] https://www.nasa.gov/intelligent-systems-division.
+The dataset used in this project was provided by NASA and can be found [here](https://www.nasa.gov/intelligent-systems-division).
 
 
 
