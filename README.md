@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Matplotlib
 
 # Installing
-1.  Clone the repository: git clone https://github.com/user/repo.git
+1.  Clone the repository: git clone [GitHub]([https://github.com](https://github.com/safia-bashir/Prediction-of-Remaining-Useful-Life-RUL-of-turbofan-engine.git)) 
 2.  Install the required packages: pip install -r requirements.txt
 # Usage
 1. Download the dataset from this link and unzip it.
